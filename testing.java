@@ -5,4 +5,5 @@
 public class testing {
 
     private String test = "test";
+    private String test2 = "test22";
 }
