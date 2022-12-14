@@ -3,4 +3,6 @@
  * @since Dec 14 2022
  */
 public class testing {
+
+    private String test = "test";
 }
