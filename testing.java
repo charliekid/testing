@@ -7,4 +7,5 @@ public class testing {
     private String test = "test";
     private String test2 = "test22";
     //we are adding comments here to merge
+    // adding more comments and above should be gone. 
 }
